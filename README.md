@@ -18,7 +18,12 @@
 
 ## 動作画面
 ![動作画面](https://github.com/Ryosuke0425/prefecture_crossword/assets/168053509/998a745c-adf2-4602-9d79-4eaa2f3b6410)
+boardの欄に盤面の情報、questionsにクロスワードの質問、縦のカギか横のカギか、一文字目が入る位置を入力するとoutputの欄に回答が出力されるようにした。
+
+
 ## 今後の課題
+tf-idfという手法は単語のみに着目したアルゴリズムであるため、文脈を考慮していない。それができるようになれば精度は更に上がるだろう。
+また、Wikipedia以外からもデータ収集を行えば更に精度の向上が期待できる。
 
 ## 参考文献
 * https://qiita.com/gretchi/items/13c0825282415e2e360d
