@@ -17,7 +17,7 @@
 * Gradio
 
 ## 動作画面
-
+![動作画面](https://github.com/Ryosuke0425/prefecture_crossword/assets/168053509/998a745c-adf2-4602-9d79-4eaa2f3b6410)
 ## 今後の課題
 
 ## 参考文献
